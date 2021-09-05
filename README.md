@@ -10,3 +10,6 @@ Well, it depends. Most comments are done between ***13:00:00 UTC and 16:00:00 UT
 ## Are all the help seekers getting help?
 Absolutely, No! Only ***51.5%*** questioneers accepted answers. It means half of the people gets help from StackOverflow. This would be slightly bigger because sometimes, questioneers forgot to accept answer or benefitted from comments. But, users must grow their helping mentality also.
 ### And, that's it!
+
+***Data Source: BigQuery Public Data***
+
